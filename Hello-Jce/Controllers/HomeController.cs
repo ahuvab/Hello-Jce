@@ -15,14 +15,14 @@ namespace Hello_Jce.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Ahuva's website description page.";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Ahuva's website contact page.";
 
             return View();
         }
