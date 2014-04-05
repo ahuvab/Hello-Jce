@@ -15,7 +15,7 @@ namespace Hello_Jce.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Ahuva's website description page.";
+            ViewBag.Message = "The website is a part of Jerusalem Engineering college";
 
             return View();
         }
